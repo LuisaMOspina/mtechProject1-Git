@@ -3,6 +3,14 @@
     font-family:'Courier New', Courier, monospace;
 }
 
+body{
+    margin:auto;
+}
+
 h1{
+    color:rgb(203, 141, 24);
+}
+
+h2{
     color:rgb(203, 141, 24);
 }
