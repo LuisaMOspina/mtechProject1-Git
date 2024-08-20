@@ -5,6 +5,8 @@
 
 body{
     margin:auto;
+    text-align:center;
+    background-color:black;
 }
 
 h1{
@@ -13,4 +15,11 @@ h1{
 
 h2{
     color:rgb(203, 141, 24);
+}
+
+.top{
+    background-color:white;
+    width:500px;
+    padding:5px;
+    margin:auto;
 }
